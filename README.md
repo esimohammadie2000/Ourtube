@@ -1,3 +1,12 @@
+> [!WARNING]
+> ## ⚠️ DISCLAIMER
+> This project is **no longer maintained** and has been disabled by GitHub for violating their Terms of Service.
+> 
+> - This repository is archived for **educational purposes only**
+> - I am **not responsible** for any misuse of this code
+> - Do **not** use this for anything that violates GitHub's or any platform's Terms of Service
+> - All forks are independent and I have no control over them
+
 <div align="center">
    <img src="icon.gif" width="250" alt="wide-2" />
 </div>
